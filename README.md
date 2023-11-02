@@ -45,6 +45,11 @@ The project's future scope involves implementing a graphical user interface (GUI
 - **SQL Server**: Utilized for creating and managing the database.
 - **Google Colab**: Employed data preprocessing.
 
+## Data Disclaimer
+
+All data used in this project is artificially generated and does not correspond to real individuals' information. Your privacy and ethical concerns are of paramount importance. If, by any chance, any data matches real individuals' details, please let me know, and I will promptly remove such information.
+
 ## Acknowledgments
 
-**Dataset Source:** [Goodreads Books Dataset](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks)
+- **Dataset Source:** [Goodreads Books Dataset](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks)
+- This project utilizes synthetic data generated using [Mockaroo](https://www.mockaroo.com/), which was instrumental in creating artificial data for testing and development purposes.
